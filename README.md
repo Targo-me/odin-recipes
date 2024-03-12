@@ -1,3 +1,3 @@
 # odin-recipes
 
-Just started this project
+This webpage includes three recipes (Lasagna, Roasted Broccoli and Oven Roasted Grape Tomatoes)
