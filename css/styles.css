@@ -1,6 +1,7 @@
 *{background: color burlywood;(255, 204, 127, 0.966);}
 img {height: 500px;; width: auto;margin-left: 175px;}
 p{font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: large;}
-h1{text-align:center;color: darkblue;}
-.1st-pag {font: optional; text: size 300px;}
+h1{text-align:center;color: darkblue;font-size: 50px;
+    border: solid 5px;margin-left: 250px; margin-right: 250px;}
+.lasagn {padding-top: 20px;}
 
